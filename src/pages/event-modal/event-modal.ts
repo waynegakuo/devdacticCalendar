@@ -8,7 +8,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
  * Ionic pages and navigation.
  */
  //starting off
- //here we are
+ //here we are again
 
 @IonicPage()
 @Component({
